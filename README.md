@@ -5,8 +5,8 @@ Contact : chengcheng.zcc@alibaba-inc.com
 
 This package adapts Hoifung Poon's Java code for Sum-Product Networks.
 It is purely implemented in Python without any optimization so far. For
-now, it is basicly for personal interests, but I hope to get any feedback
-from anyone who also interested in Sum-Product Networks.
+now, it is basicly for personal interests, but I hope to get any feedbacks
+from anyone who is also interested in Sum-Product Networks.
 
 This package is not well tested, it may contain some bugs.
 
